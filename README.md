@@ -3,12 +3,16 @@ Proyecto que conecta herramientas de Big Data con data en tiempo real para consu
 
 Los componentes utilizados son:
 
-HDFS
-MapReduce
-Elastic Search
-Kibana
-Twitter Api
-EMT Api
+
+<ul>
+<li>HDFS</li>
+<li>MapReduce</li>
+<li>Elastic Search</li>
+<li>Kibana</li>
+<li>Twitter Api</li>
+<li>EMT Api</li>
+</ul>
+
 
 Autor: Alberto José Gallardo
 
